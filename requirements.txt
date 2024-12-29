@@ -1,0 +1,6 @@
+requests
+pdfplumber
+neo4j
+python-dotenv
+tqdm
+beautifulsoup4
